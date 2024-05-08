@@ -1,0 +1,2 @@
+Movie title=Black Panther, cast=Chadwick Boseman, Michael B. Jordan, category=Action, release_date=29.01.2018, budget=200 Million
+Movie title=The Lord of the Rings: The Return of the King, cast=Elijah Wood, Ian McKellen, category=Fantasy, release_date=17.12.2003, budget=94 Million
